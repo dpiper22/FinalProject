@@ -1,4 +1,4 @@
-***SI 206 Final Project***
+**SI 206 Final Project**
 
   For my final project, I decided to track who liked and commented on my posts the most on Facebook. In addition, I created another file to find data on what day and what time of day my posts are. I created two tables, one to show who liked and commented on my posts the most and another to show what time of day and what days I posted the most. To display this data, I used plotly to create three visualizations. I decided bar graphs would be the easiest way to show the data for each table. I made two bar graphs that show who comments on my posts the most and who likes my posts the most. Then, I made another bar graph that showed which time of day I posted the most, which was the “middle of the night” or between midnight and 3:59AM.
 
